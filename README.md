@@ -43,7 +43,7 @@ The population of interest is ~50 million male + 50 million female customers. We
 ## 📓 Notebook & Full Report
 
 - **Jupyter Notebook**: [./notebooks/](./notebooks/walmart_black_friday_clt.ipynb)
-- **PDF Report**: [./reports/](./reports/)
+- **PDF Report**: [./reports/](./reports/walmart_analysis.pdf)
 
 ---
 
