@@ -57,5 +57,5 @@ The population of interest is ~50 million male + 50 million female customers. We
 ---
 
 **Author:** Amit Narendra Adikane  
-**GitHub:** [Amit14594](https://github.com/Amit14594)  
+**GitHub:** [amitadikane](https://github.com/amitadikane)  
 **LinkedIn:** [amit-adikane](https://www.linkedin.com/in/amit-adikane-4060a91b1/)
